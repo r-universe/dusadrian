@@ -1,0 +1,18 @@
+[
+  {
+    "package": "admisc",
+    "oncran": true
+  },
+  {
+    "package": "DDIwR",
+    "oncran": true
+  },
+  {
+    "package": "declared",
+    "oncran": true
+  },
+  {
+    "package": "venn",
+    "oncran": true
+  }
+]

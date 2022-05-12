@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "admisc"]
+	path = admisc
+	url = https://github.com/dusadrian/admisc
+	shallow = true
+	registered = true
+[submodule "DDIwR"]
+	path = DDIwR
+	url = https://github.com/dusadrian/ddiwr
+	shallow = true
+	registered = true
+[submodule "declared"]
+	path = declared
+	url = https://github.com/dusadrian/declared
+	shallow = true
+	registered = true
+[submodule "venn"]
+	path = venn
+	url = https://github.com/dusadrian/venn
+	shallow = true
+	registered = true
