@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/dusadrian/universe
 	branch = HEAD
+[submodule "DDIwR"]
+	path = DDIwR
+	url = https://github.com/dusadrian/DDIwR
 [submodule "admisc"]
 	path = admisc
 	url = https://github.com/dusadrian/admisc
 [submodule "declared"]
 	path = declared
 	url = https://github.com/dusadrian/declared
-[submodule "venn"]
-	path = venn
-	url = https://github.com/dusadrian/venn
-[submodule "DDIwR"]
-	path = DDIwR
-	url = https://github.com/dusadrian/DDIwR
 [submodule "statistics"]
 	path = statistics
 	url = https://github.com/dusadrian/statistics
+[submodule "venn"]
+	path = venn
+	url = https://github.com/dusadrian/venn
