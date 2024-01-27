@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dusadrian/universe
+	url = https://github.com/dusadrian/dusadrian.r-universe.dev
 	branch = HEAD
 [submodule "DDIwR"]
 	path = DDIwR
