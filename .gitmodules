@@ -5,9 +5,6 @@
 [submodule "DDIwR"]
 	path = DDIwR
 	url = https://github.com/dusadrian/DDIwR
-[submodule "QCA"]
-	path = QCA
-	url = https://github.com/dusadrian/testthat_QCA
 [submodule "admisc"]
 	path = admisc
 	url = https://github.com/dusadrian/admisc
